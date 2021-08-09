@@ -14,3 +14,15 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project.
 
+## Links
+
+Video Walkthrough: https://drive.google.com/file/d/189dyXZqi66tLJQ_DNewlci8egzWBeCxy/view
+
+Repository: https://github.com/TMC-glitch/READMEGenerator
+
+My GitHub: https://github.com/TMC-glitch
+<br></br>
+### Screenshot
+<br></br>
+![Shot](/Images/shot1.png)
+
