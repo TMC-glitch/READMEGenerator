@@ -24,5 +24,5 @@ My GitHub: https://github.com/TMC-glitch
 <br></br>
 ### Screenshot
 <br></br>
-![Shot](/Images/shot1.png)
+![Shot](/Images/Shot1.png)
 
